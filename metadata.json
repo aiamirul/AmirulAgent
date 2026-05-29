@@ -1,0 +1,6 @@
+{
+  "name": "AMIRU-LLM",
+  "description": "A professional personal assistant that answers questions about Amirul's resume, skill set, and achievements with high precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
